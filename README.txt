@@ -1,5 +1,7 @@
 
-UPDATE: 9-27...I may have made a breakthrough. I'll be overiding current files, including replacing the current *.Zip to include all updates by 7pm EST on 9-27
+UPDATE: 9-27 (8pm est)... updated 10 *.hbs files + DB + app.js. App.js is not finished as more script need to written and tested. 
+
+UPDATE: 9-27 (am est)...I may have made a breakthrough. I'll be overiding current files, including replacing the current *.Zip to include all updates by 7pm EST on 9-27
 
 This "Events Project" is not functional past the login screen. 
 Although countless effort has been made to make this fully functional, including the helpful 
